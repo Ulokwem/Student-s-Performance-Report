@@ -50,7 +50,9 @@ git clone https://github.com/Ulokwem/Students-Performance-Dashboard-Power-Bi.git
 
 🖼️ Project Preview
 
---- My Dashboard Image
+<img width="400" height="230" alt="st" src="https://github.com/user-attachments/assets/c86639ed-5fa6-4ddd-b9e4-8b48916bfc1b" />
+
+<img width="425" height="255" alt="Students" src="https://github.com/user-attachments/assets/153991b6-50ec-475f-9f7f-18b4ba4fffce" />
 
 📬 Contact
 
@@ -59,6 +61,4 @@ For any questions, collaborations, or feedback:
 Name: Okechi Ulokwem
 Role: Data Analyst
 Email: okechiulokwem@gmail.com
-
-GitHub: Ulokwem<img width="425" height="255" alt="Students" src="https://github.com/user-attachments/assets/153991b6-50ec-475f-9f7f-18b4ba4fffce" />
-<img width="400" height="230" alt="st" src="https://github.com/user-attachments/assets/c86639ed-5fa6-4ddd-b9e4-8b48916bfc1b" />
+GitHub: Ulokwem
