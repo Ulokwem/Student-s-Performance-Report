@@ -41,11 +41,13 @@ It provides an interactive view of student performance, enabling educators and d
 🌍 Demographic Insights – Compare performance across gender and race/ethnicity.
 
 
+
 🖼️ Project Preview
 
 <img width="400" height="230" alt="st" src="https://github.com/user-attachments/assets/c86639ed-5fa6-4ddd-b9e4-8b48916bfc1b" />
 
 <img width="425" height="255" alt="Students" src="https://github.com/user-attachments/assets/153991b6-50ec-475f-9f7f-18b4ba4fffce" />
+
 
 🎓 **Insights**
 
@@ -138,11 +140,6 @@ Clone this repository:
 
 git clone https://github.com/Ulokwem/Students-Performance-Dashboard-Power-Bi.git
 
-🖼️ Project Preview
-
-<img width="400" height="230" alt="st" src="https://github.com/user-attachments/assets/c86639ed-5fa6-4ddd-b9e4-8b48916bfc1b" />
-
-<img width="425" height="255" alt="Students" src="https://github.com/user-attachments/assets/153991b6-50ec-475f-9f7f-18b4ba4fffce" />
 
 📬 Contact
 
