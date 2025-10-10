@@ -46,7 +46,9 @@ It provides an interactive view of student performance, enabling educators and d
 
      ▪ Total Students: 1,009
      
-📍 Gender Distribution: 48.3% Male | 51.7% Female — fairly balanced population.
+📍 Gender Distribution: 
+
+     ▪ 48.3% Male | 51.7% Female — fairly balanced population.
 
      ▪ Average Score: 67.8 — indicating average performance across the cohort.
     
